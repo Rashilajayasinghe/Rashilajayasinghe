@@ -1,6 +1,6 @@
 <!-- 🌼 Beautiful GitHub Profile README for Rashila -->
 
-<h1 align="center">🌼 Hi, I'm <strong>Rashila</strong></h1>
+<h1 align="center">Hi, I'm <strong>Rashila</strong></h1>
 <h3 align="center">AI & Data Science Undergraduate | ML Enthusiast | Creative Thinker</h3>
 
 ---
