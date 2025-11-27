@@ -1,69 +1,102 @@
-<!-- 🌼 Beautiful GitHub Profile README for Rashila -->
+# 🌟 Rashila – AI & Data Science Undergraduate | ML Enthusiast | Developer
 
-<h1 align="center">Hi, I'm <strong>Rashila</strong></h1>
-<h3 align="center">AI & Data Science Undergraduate | ML Enthusiast | Creative Thinker</h3>
-
----
-
-## 🌟 About Me  
-I’m passionate about building intelligent systems, exploring machine learning, and turning data into meaningful insights.  
-When I’m not coding, I enjoy singing and experimenting with creative ideas.
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-| Python | Java | JavaScript | SQL |
-|--------|------|------------|-----|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?logo=java) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) |
-
-### **Tools & Frameworks**
-| TensorFlow | Scikit-Learn | Node.js | Git |
-|------------|--------------|---------|-----|
-| ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![skl](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-
----
-
-## 🔥 Featured Projects  
-
-### 📌 **Project 1 — Your Project Name**
-Short description of your project  
-🔗 **Repo:** [Click Here](#)
-
-### 📌 **Project 2 — Your Project Name**
-Short description of your project  
-🔗 **Repo:** [Click Here](#)
-
----
-
-## 📊 GitHub Insights  
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" height="165" />
-
+  <img src="https://img.shields.io/badge/AI%20Student-IIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/From-Warakapola-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Passion-Singing%20%7C%20Tech-orange?style=for-the-badge">
 </p>
 
 ---
 
-## 🎯 Currently Learning  
-- Deep Learning  
-- Recommendation Systems  
-- Data Engineering Basics  
+## ✨ About Me
+
+I’m an undergraduate in **Artificial Intelligence & Data Science** who loves building intelligent systems that solve real-world problems.
+
+- Passionate about **AI, ML, and automation**
+- Enjoy developing **recommendation systems & predictive models**
+- Interested in **full-stack development, data engineering & IoT**
+- Always exploring new technologies and improving my skills
+- Singing music is my leisure-time passion!
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](#)
+## 🛠️ Technical Skills
+
+### **Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,r,html,css,sql" />
+</p>
 
 ---
 
-## 💫 Fun Section  
-> “Tiny steps every day create massive progress.”
+### **Frameworks, Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,tensorflow,arduino" />
+</p>
 
 ---
+
+### **AI, ML & Data Science**
+- Classification, Regression, Clustering
+- Neural Networks & TensorFlow
+- Feature Engineering & Data Cleaning
+- Exploratory Data Analysis
+- Recommendation Systems (Content + Collaborative)
+- Model tuning, evaluation & visualization
+
+---
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+</p>
+
+---
+
+### **IoT & Hardware Experience**
+- ESP32
+- Sensor Systems
+- Embedded controllers
+- Automation integrations
+
+---
+
+### **Development Workflow**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+- Agile workflow  
+- Project planning & documentation  
+- Clean code practices  
+
+---
+
+## 🚀 Current Projects
+- AI Recommendation System for Streaming Platform  
+- Seashell Lounge Website (Menu + Order System + XML Integration)  
+- Python POS System for Cupcake Sales  
+- JavaFX XML Billing UI  
+- Data Science mini-projects (ML modelling & analytics)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rashila&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashila&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rashila&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
