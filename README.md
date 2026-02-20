@@ -79,23 +79,13 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves b
 - Data Science Group Project (ML modelling & analytics)
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rashila&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashila&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rashila&theme=radical" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/rashila-jayasinghe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:jayasingherashila111@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rashila-jayasinghe">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:jayasingherashila111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
