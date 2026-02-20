@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Student-IIT-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/From-Warakapola-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Passion-Singing%20%7C%20Tech-orange?style=for-the-badge">
 </p>
 
 ---
@@ -24,14 +23,14 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves b
 
 ### **Programming**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,r,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,r,html,css,sql" />
 </p>
 
 ---
 
 ### **Frameworks, Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,tensorflow,arduino" />
+  <img src="https://skillicons.dev/icons?i=react,tensorflow,arduino" />
 </p>
 
 ---
@@ -48,7 +47,7 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves b
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ---
@@ -63,7 +62,7 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves b
 
 ### **Development Workflow**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 - Agile workflow  
@@ -77,7 +76,7 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves b
 - Seashell Lounge Website (Menu + Order System + XML Integration)  
 - Python POS System for Cupcake Sales  
 - JavaFX XML Billing UI  
-- Data Science mini-projects (ML modelling & analytics)
+- Data Science Group Project (ML modelling & analytics)
 
 ---
 
@@ -97,6 +96,6 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves b
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="www.linkedin.com/in/rashila-jayasinghe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:jayasingherashila111@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
